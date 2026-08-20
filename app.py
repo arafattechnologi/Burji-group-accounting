@@ -13,7 +13,7 @@ from flask import (
 )
 
 app = Flask(__name__)
-app.secret_key = "carafat_group_secret_key"
+app.secret_key = " Burji_group_secret_key"
 DB_NAME = "carafat_group.db"
 
 
